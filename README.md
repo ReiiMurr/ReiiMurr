@@ -1,1 +1,1 @@
-<img width="2125" height="575" alt="GitHub Card" src="https://github.com/user-attachments/assets/318e2a7f-d282-4673-80c9-e1f2ce791639" />
+<img width="2125" height="575" alt="haygub card" src="https://github.com/user-attachments/assets/ed79dd6d-71eb-4546-a7de-e93be6196a6b" />
